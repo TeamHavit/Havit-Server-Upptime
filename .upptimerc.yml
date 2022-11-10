@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Havit Push Server - DEV
-    url: ${{ secret.SECRET_SITE }}/heath
+    url: ${{ secrets.SECRET_SITE }}
     method: GET
     
 assignees: # Users to assign downtime issues (optional)

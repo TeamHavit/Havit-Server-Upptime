@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 384,
-    "timeWeek": 384,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "time": 383,
+    "timeDay": 383,
+    "timeWeek": 383,
+    "timeMonth": 383,
+    "timeYear": 383,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "TEST slack",
-    "url": "http://sldkfjlsjdflksdjf.com",
-    "icon": "https://icons.duckduckgo.com/ip3/sldkfjlsjdflksdjf.com.ico",
-    "slug": "test-slack",
-    "status": "down",
-    "uptime": "5.70%",
-    "uptimeDay": "5.70%",
-    "uptimeWeek": "5.70%",
-    "uptimeMonth": "5.70%",
-    "uptimeYear": "5.70%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-11-10": 0
-    }
   }
 ]

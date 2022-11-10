@@ -8,11 +8,6 @@ sites:
     method: GET
     expectedStatusCodes:
       - 200
-  - name: TEST slack
-    url: http://sldkfjlsjdflksdjf.com
-    method: GET
-    expectedStatusCodes:
-      - 200
     
 assignees: # Users to assign downtime issues (optional)
   - jokj624

@@ -1,7 +1,7 @@
-url: ${{ secret.SECRET_SITE }}/heath
+url: ${{ secrets.SECRET_SITE }}
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2022-11-10T17:42:14.855Z
+lastUpdated: 2022-11-10T17:46:39.255Z
 startTime: Thu Nov 10 2022 17:40:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 [
   {
     "name": "Havit Push Server - DEV",
-    "url": "${{ secret.SECRET_SITE }}/heath",
+    "url": "${{ secrets.SECRET_SITE }}",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-push-server-dev",
     "status": "down",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-10": 2
+      "2022-11-10": 6
     }
   }
 ]

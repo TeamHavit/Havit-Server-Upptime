@@ -6,6 +6,8 @@ sites:
   - name: Havit Push Server - DEV
     url: $SECRET_SITE
     method: GET
+    expectedStatusCodes:
+      - 200
     
 assignees: # Users to assign downtime issues (optional)
   - jokj624
@@ -16,10 +18,12 @@ status-website:
   baseUrl: /Havit-Server-Upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Havit Server Health Check
-  introTitle: "Havit Sever"
+  introTitle: "Havit Server"
   introMessage: HAVIT 서버의 구동 상태를 확인합니다.
   navbar:
-    - title: Havit GitHub
+    - title: Status
+      href: /
+    - title: GitHub
       href: https://github.com/TeamHavit
 
 # Upptime also supports notifications, assigning issues, and more

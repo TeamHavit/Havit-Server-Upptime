@@ -8,11 +8,11 @@ sites:
     method: GET
     expectedStatusCodes:
       - 200
-  - name: Havit Push Server - PROD
-    url: $SECRET_SITE_1
-    method: GET
-    expectedStatusCodes:
-      - 200 
+#  - name: Havit Push Server - PROD
+ #   url: $SECRET_SITE_1
+ #   method: GET
+ #   expectedStatusCodes:
+ #     - 200 
     
 assignees: # Users to assign downtime issues (optional)
   - jokj624

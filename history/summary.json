@@ -26,7 +26,7 @@
     "slug": "havit-push-server-prod",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "2.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -36,7 +36,6 @@
     "timeMonth": 434,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2022-11-21": 3,
       "2022-11-15": 230
     }
   }

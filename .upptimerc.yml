@@ -4,12 +4,12 @@ repo: Havit-Server-Upptime # The name of this repository
 
 sites:
   - name: Havit App Server - DEV
-    url: $APP_DEV
+    url: $DEV_APP
     method: GET
     expectedStatusCodes:
       - 200
   - name: Havit App Server - PROD
-    url: $APP_PROD
+    url: $PROD_APP
     method: GET
     expectedStatusCodes:
       - 200

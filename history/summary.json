@@ -4,10 +4,10 @@
     "url": "$DEV_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-app-server-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1309,
@@ -16,6 +16,7 @@
     "timeMonth": 1786,
     "timeYear": 1311,
     "dailyMinutesDown": {
+      "2023-11-29": 2,
       "2023-02-16": 581,
       "2023-02-15": 594
     }
@@ -25,9 +26,9 @@
     "url": "$PROD_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-app-server-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -37,6 +38,7 @@
     "timeMonth": 1568,
     "timeYear": 1212,
     "dailyMinutesDown": {
+      "2023-11-29": 0,
       "2023-01-27": 26
     }
   },

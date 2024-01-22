@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1421,
-    "timeDay": 3635,
-    "timeWeek": 2514,
-    "timeMonth": 2677,
-    "timeYear": 1429,
+    "timeDay": 1286,
+    "timeWeek": 2138,
+    "timeMonth": 2605,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2023-02-16": 581,
       "2023-02-15": 594
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1288,
-    "timeDay": 3368,
-    "timeWeek": 2237,
-    "timeMonth": 2160,
-    "timeYear": 1289,
+    "time": 1287,
+    "timeDay": 882,
+    "timeWeek": 1934,
+    "timeMonth": 2061,
+    "timeYear": 1287,
     "dailyMinutesDown": {
       "2023-01-27": 26
     }
@@ -46,15 +46,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-push-server-dev",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 400,
-    "timeDay": 619,
-    "timeWeek": 634,
-    "timeMonth": 596,
+    "timeDay": 441,
+    "timeWeek": 614,
+    "timeMonth": 590,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2023-12-12": 896,
@@ -76,10 +76,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 719,
-    "timeDay": 588,
-    "timeWeek": 562,
-    "timeMonth": 676,
-    "timeYear": 723,
+    "timeDay": 489,
+    "timeWeek": 557,
+    "timeMonth": 666,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2023-01-25": 35
     }

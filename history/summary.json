@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1437,
-    "timeDay": 1276,
-    "timeWeek": 2935,
-    "timeMonth": 2626,
-    "timeYear": 1448,
+    "timeDay": 1321,
+    "timeWeek": 2657,
+    "timeMonth": 2547,
+    "timeYear": 1447,
     "dailyMinutesDown": {
       "2023-02-16": 581,
       "2023-02-15": 594
@@ -31,14 +31,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1294,
-    "timeDay": 889,
-    "timeWeek": 2140,
-    "timeMonth": 1982,
-    "timeYear": 1295,
-    "dailyMinutesDown": {
-      "2023-01-27": 26
-    }
+    "time": 1293,
+    "timeDay": 848,
+    "timeWeek": 1873,
+    "timeMonth": 1914,
+    "timeYear": 1291,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Havit Push Server - DEV",
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
     "time": 402,
-    "timeDay": 497,
-    "timeWeek": 539,
-    "timeMonth": 587,
+    "timeDay": 477,
+    "timeWeek": 530,
+    "timeMonth": 582,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2023-12-12": 896,
@@ -75,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 717,
-    "timeDay": 497,
-    "timeWeek": 548,
-    "timeMonth": 642,
-    "timeYear": 720,
+    "timeDay": 478,
+    "timeWeek": 536,
+    "timeMonth": 632,
+    "timeYear": 719,
     "dailyMinutesDown": {}
   }
 ]

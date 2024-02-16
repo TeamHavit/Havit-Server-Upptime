@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 1472,
-    "timeDay": 4474,
-    "timeWeek": 2189,
-    "timeMonth": 2315,
-    "timeYear": 1494,
-    "dailyMinutesDown": {
-      "2023-02-16": 581
-    }
+    "uptimeYear": "99.90%",
+    "time": 1473,
+    "timeDay": 1873,
+    "timeWeek": 2106,
+    "timeMonth": 2345,
+    "timeYear": 1500,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Havit App Server - PROD",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1312,
-    "timeDay": 4488,
-    "timeWeek": 1870,
-    "timeMonth": 1796,
-    "timeYear": 1324,
+    "time": 1310,
+    "timeDay": 325,
+    "timeWeek": 1799,
+    "timeMonth": 1760,
+    "timeYear": 1320,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
-    "time": 407,
-    "timeDay": 558,
-    "timeWeek": 529,
-    "timeMonth": 553,
-    "timeYear": 414,
+    "time": 408,
+    "timeDay": 569,
+    "timeWeek": 545,
+    "timeMonth": 539,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2023-12-12": 896,
       "2023-12-11": 1440,
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 709,
-    "timeDay": 573,
-    "timeWeek": 520,
-    "timeMonth": 544,
+    "timeDay": 588,
+    "timeWeek": 545,
+    "timeMonth": 545,
     "timeYear": 710,
     "dailyMinutesDown": {}
   }

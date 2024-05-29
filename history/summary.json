@@ -40,9 +40,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-push-server-dev",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.18%",
@@ -52,6 +52,7 @@
     "timeMonth": 594,
     "timeYear": 472,
     "dailyMinutesDown": {
+      "2024-05-29": 0,
       "2023-12-12": 896,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -63,9 +64,9 @@
     "url": "$PROD_PUSH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-push-server-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +75,8 @@
     "timeWeek": 591,
     "timeMonth": 595,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-29": 0
+    }
   }
 ]

@@ -1,7 +1,7 @@
 url: $PROD_APP
 status: up
 code: 200
-responseTime: 2000
-lastUpdated: 2024-06-11T23:12:09.120Z
+responseTime: 480
+lastUpdated: 2024-06-12T23:12:32.707Z
 startTime: Tue Nov 22 2022 09:40:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

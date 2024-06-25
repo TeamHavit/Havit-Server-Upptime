@@ -4,36 +4,40 @@
     "url": "$DEV_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-app-server-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1692,
-    "timeDay": 2695,
-    "timeWeek": 2095,
-    "timeMonth": 2100,
-    "timeYear": 1945,
-    "dailyMinutesDown": {}
+    "time": 1689,
+    "timeDay": 1451,
+    "timeWeek": 1859,
+    "timeMonth": 2041,
+    "timeYear": 1940,
+    "dailyMinutesDown": {
+      "2024-06-25": 0
+    }
   },
   {
     "name": "Havit App Server - PROD",
     "url": "$PROD_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-app-server-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1413,
-    "timeDay": 447,
-    "timeWeek": 1632,
-    "timeMonth": 1343,
-    "timeYear": 1618,
-    "dailyMinutesDown": {}
+    "timeDay": 557,
+    "timeWeek": 1512,
+    "timeMonth": 1322,
+    "timeYear": 1616,
+    "dailyMinutesDown": {
+      "2024-06-25": 0
+    }
   },
   {
     "name": "Havit Push Server - DEV",

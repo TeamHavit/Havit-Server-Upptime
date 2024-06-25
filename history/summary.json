@@ -4,19 +4,19 @@
     "url": "$DEV_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-app-server-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1689,
-    "timeDay": 1451,
-    "timeWeek": 1859,
-    "timeMonth": 2041,
-    "timeYear": 1940,
+    "time": 1688,
+    "timeDay": 1807,
+    "timeWeek": 1933,
+    "timeMonth": 2055,
+    "timeYear": 1942,
     "dailyMinutesDown": {
-      "2024-06-25": 0
+      "2024-06-25": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$PROD_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-app-server-prod",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1413,
-    "timeDay": 557,
-    "timeWeek": 1512,
-    "timeMonth": 1322,
-    "timeYear": 1616,
+    "time": 1415,
+    "timeDay": 1229,
+    "timeWeek": 1629,
+    "timeMonth": 1360,
+    "timeYear": 1618,
     "dailyMinutesDown": {
-      "2024-06-25": 0
+      "2024-06-25": 16
     }
   },
   {

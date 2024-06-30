@@ -4,9 +4,9 @@
     "url": "$DEV_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-app-server-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1869,
     "timeYear": 1937,
     "dailyMinutesDown": {
+      "2024-06-30": 0,
       "2024-06-25": 16
     }
   },

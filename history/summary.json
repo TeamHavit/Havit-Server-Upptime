@@ -6,17 +6,16 @@
     "slug": "havit-app-server-dev",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 1689,
-    "timeDay": 2089,
-    "timeWeek": 1796,
-    "timeMonth": 1872,
-    "timeYear": 1937,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
+    "time": 1693,
+    "timeDay": 2296,
+    "timeWeek": 1791,
+    "timeMonth": 1918,
+    "timeYear": 1939,
     "dailyMinutesDown": {
-      "2024-06-30": 10,
       "2024-06-25": 16
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1419,
-    "timeDay": 2155,
-    "timeWeek": 1441,
-    "timeMonth": 1353,
-    "timeYear": 1616,
+    "time": 1420,
+    "timeDay": 2093,
+    "timeWeek": 1439,
+    "timeMonth": 1428,
+    "timeYear": 1617,
     "dailyMinutesDown": {
       "2024-06-25": 16
     }
@@ -52,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.12%",
     "time": 457,
-    "timeDay": 586,
-    "timeWeek": 575,
-    "timeMonth": 571,
+    "timeDay": 483,
+    "timeWeek": 558,
+    "timeMonth": 575,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2024-05-29": 332,
@@ -76,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 672,
-    "timeDay": 559,
-    "timeWeek": 557,
-    "timeMonth": 560,
-    "timeYear": 652,
+    "timeDay": 485,
+    "timeWeek": 545,
+    "timeMonth": 563,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2024-05-29": 332
     }

@@ -1,7 +1,7 @@
 url: $PROD_PUSH
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-21T15:12:22.322Z
+status: up
+code: 200
+responseTime: 690
+lastUpdated: 2026-02-21T15:42:19.833Z
 startTime: 2022-11-21T11:49:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>

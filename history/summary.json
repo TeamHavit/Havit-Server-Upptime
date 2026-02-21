@@ -44,35 +44,39 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-push-server-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
+    "time": 604,
     "timeDay": 666,
     "timeWeek": 661,
     "timeMonth": 595,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-21": 1
+    }
   },
   {
     "name": "Havit Push Server - PROD",
     "url": "$PROD_PUSH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "havit-push-server-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
+    "time": 613,
     "timeDay": 640,
     "timeWeek": 750,
     "timeMonth": 718,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-21": 0
+    }
   }
 ]
